@@ -52,7 +52,7 @@ flowchart LR
 
 ## Resultado
 
-![Agentes activos en Wazuh](https://github.com/LudeusKato/soc-lab-wazuh/blob/main/Wazuh%20Panel.png)
+![Agentes activos en Wazuh](https://github.com/JeremiasRositi/soc-lab-wazuh/blob/main/Wazuh%20Panel.png)
 
 ## Problemas que resolví
 
