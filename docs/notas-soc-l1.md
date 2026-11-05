@@ -79,7 +79,13 @@ Nota: en muchos SOC el L1 no ejecuta el bloqueo por su cuenta, sino que lo pide 
 
 7. Conexión con mi laboratorio
 En mi laboratorio de Wazuh se ve este mismo ciclo en pequeño: los agentes de Ubuntu y Windows generan eventos, los envían al servidor de Wazuh, que los analiza con sus reglas y los muestra en el panel. Lo que sigue en mi plan para estas semanas, es provocar eventos a propósito (escaneos con Nmap desde otra consola fuera del rango, ataques por fuerza bruta por SSH) y practicar el triaje sobre las alertas que genere.
+
 Próximos pasos
+
 Terminar el módulo SOC Team Internals y seguir con Core SOC Solutions
+
+Documentar las alertas de mi laboratorio como casos de triaje
+
+Escribir los writeups de la semana siguiente
 Documentar las alertas de mi laboratorio como casos de triaje
 Escribir los writeups de la semana siguiente
