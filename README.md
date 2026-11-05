@@ -72,6 +72,10 @@ luego de eso arranque la maquina y funciono perfecto.
 
 Por otra parte el único problema que me dio ubuntu fue que tenia que iniciar el servidor forzadamente así que use los comandos "sudo systemctl daemon-reload && sudo systemctl enable --now wazuh-agent" con eso me creo los enlaces simbólicos y así pudiendo ver la maquina en el panel de wazuh
 
+## Documentación
+
+- [Aprendizaje del camino SOC L1 (TryHackMe)](docs/notas-soc-l1.md)
+
 ## Próximos pasos
 
 - [ ] Escaneos con Nmap y análisis de las alertas generadas
