@@ -4,9 +4,13 @@ Notas de estudio del camino SOC Level 1 de TryHackMe. Acá resumo qué es un SOC
 Progreso
 
 [x] Junior Security Analyst Intro
+
 [x] SOC Role in Blue Team
+
 [x] SOC L1 Alert Triage
+
 [ ] Core SOC Solutions
+
 [ ] Resto del camino
 
 ---
