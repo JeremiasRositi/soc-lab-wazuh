@@ -3,11 +3,11 @@ Aprendizaje de mi camino SOC Level 1
 Notas de estudio del camino SOC Level 1 de TryHackMe. Acá resumo qué es un SOC, quién hace qué y cómo se maneja una alerta de principio a fin. Al mismo tiempo lo conecto con el laboratorio de Wazuh que armé en este mismo repo.
 Progreso
 
-[x] Junior Security Analyst Intro
+[x] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6aebf9fcbdb44cd2b42ebe85)
 
-[x] SOC Role in Blue Team
+[x] [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=6aebf9fcbdb44cd2b42ebe85)
 
-[x] SOC L1 Alert Triage
+[x] [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=6aebf9fcbdb44cd2b42ebe85)
 
 [ ] Core SOC Solutions
 
@@ -78,7 +78,7 @@ Documentar todo lo observado y lo hecho.
 Nota: en muchos SOC el L1 no ejecuta el bloqueo por su cuenta, sino que lo pide o lo hace con aprobación.
 
 7. Conexión con mi laboratorio
-En mi laboratorio de Wazuh se ve este mismo ciclo en pequeño: los agentes de Ubuntu y Windows generan eventos, los envían al servidor de Wazuh, que los analiza con sus reglas y los muestra en el panel. Lo que sigue en mi plan para estas semanas, es provocar eventos a propósito (escaneos con Nmap desde otra consola fuera del rango, ataques por fuerza bruta por SSH) y practicar el triaje sobre las alertas que genere.
+En mi [laboratorio de Wazuh](https://github.com/JeremiasRositi/soc-lab-wazuh/) se ve este mismo ciclo en pequeño: los agentes de Ubuntu y Windows generan eventos, los envían al servidor de Wazuh, que los analiza con sus reglas y los muestra en el panel. Lo que sigue en mi plan para estas semanas, es provocar eventos a propósito (escaneos con Nmap desde otra consola fuera del rango, ataques por fuerza bruta por SSH) y practicar el triaje sobre las alertas que genere.
 
 Próximos pasos
 
