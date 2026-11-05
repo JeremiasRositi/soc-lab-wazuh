@@ -1,11 +1,17 @@
 Aprendizajes: camino SOC Level 1
-Notas de estudio del camino SOC Level 1 de TryHackMe, escritas con mis palabras. Acá resumo qué es un SOC, quién hace qué y cómo se maneja una alerta de principio a fin. Lo conecto con el laboratorio de Wazuh que armé en este mismo repo.
+Notas de estudio del camino SOC Level 1 de TryHackMe. Acá resumo qué es un SOC, quién hace qué y cómo se maneja una alerta de principio a fin. Al mismo tiempo lo conecto con el laboratorio de Wazuh que armé en este mismo repo.
 Progreso
+
 [x] Junior Security Analyst Intro
+
 [x] SOC Role in Blue Team
+
 [x] SOC L1 Alert Triage
+
 [ ] Core SOC Solutions
+
 [ ] Resto del camino
+
 ---
 1. Dónde está el SOC dentro de una empresa
 En una empresa chica, el área de TI se ocupa de la seguridad. En una empresa grande hay un CISO que supervisa varios equipos, cada uno con una tarea distinta:
